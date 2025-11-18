@@ -44,7 +44,7 @@
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/Sadman-Sakib-AIUB)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/touhidcodes)
 
 ### Database & Model:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/Sadman-Sakib-AIUB)
